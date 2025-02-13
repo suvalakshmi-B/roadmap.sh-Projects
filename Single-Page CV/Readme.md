@@ -1,3 +1,5 @@
-#Simple Cv
-solution for this project simple html and css cv
-<a>simple cv</a> challenge from https://roadmap.sh/projects/single-page-cv
+# Simple CV
+
+A solution for the **Simple CV** project using HTML and CSS.
+
+[Simple CV Challenge](https://roadmap.sh/projects/single-page-cv)
