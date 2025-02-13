@@ -1,3 +1,9 @@
-#single cv
-this is a simple html single cv using html and css
-https://github.com/suvalakshmi-B/roadmap.sh-Projects/tree/main
+# Simple CV
+
+A solution for the **Simple CV** project using HTML and CSS.
+
+## 🔗 Live Demo
+[Click here to view the project](https://roadmap-sh-projects-omega.vercel.app/)
+
+## 📌 Challenge Source
+[Simple CV Challenge](https://roadmap.sh/projects/single-page-cv)
